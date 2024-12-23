@@ -1,3 +1,4 @@
+using PetBlog.Models;
 using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql;
 
@@ -5,6 +6,10 @@ using Pomelo.EntityFrameworkCore.MySql;
 namespace petblog.Models {
     public class MyAppContext:DbContext 
     {
+
+        public DbSet<Kullanici> kullanicilar {get; set;}
+        public DbSet<Kayit> kayitli {get; set;}
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

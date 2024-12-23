@@ -13,8 +13,32 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/a.jpg",
+      "PackagePath": "staticwebassets/images/a.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/b.jpg",
+      "PackagePath": "staticwebassets/images/b.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/c.jpg",
+      "PackagePath": "staticwebassets/images/c.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/ccc.jpg",
+      "PackagePath": "staticwebassets/images/ccc.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/cute.jpg",
+      "PackagePath": "staticwebassets/images/cute.jpg"
+    },
+    {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/ddd.png",
       "PackagePath": "staticwebassets/images/ddd.png"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/ggg.jpg",
+      "PackagePath": "staticwebassets/images/ggg.jpg"
     },
     {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/head.png",
@@ -29,8 +53,48 @@
       "PackagePath": "staticwebassets/images/heads.jpg"
     },
     {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/nnn.jpg",
+      "PackagePath": "staticwebassets/images/nnn.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/nnnn.jpg",
+      "PackagePath": "staticwebassets/images/nnnn.jpg"
+    },
+    {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/paws.webp",
       "PackagePath": "staticwebassets/images/paws.webp"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/ppp.jpg",
+      "PackagePath": "staticwebassets/images/ppp.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/q.jpg",
+      "PackagePath": "staticwebassets/images/q.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/qqq.jpg",
+      "PackagePath": "staticwebassets/images/qqq.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/rrr.jpg",
+      "PackagePath": "staticwebassets/images/rrr.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/sss.jpg",
+      "PackagePath": "staticwebassets/images/sss.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/v.jpg",
+      "PackagePath": "staticwebassets/images/v.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/www.jpg",
+      "PackagePath": "staticwebassets/images/www.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/yyy.jpg",
+      "PackagePath": "staticwebassets/images/yyy.jpg"
     },
     {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/js/site.js",
