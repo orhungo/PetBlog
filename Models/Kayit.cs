@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-namespace petblog.Models{
+namespace PetBlog.Models{
 public class Kayit{
 [Key]
 public int userID { get; set; }

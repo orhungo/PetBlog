@@ -1,0 +1,59 @@
+@model Kayit 
+@{
+    ViewData["Title"] = "Register Page";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sol taraf: Resim -->
+        <div class="col-md-5" style="margin-top:150px">
+            <img src="~/images/hhh.jpg" alt="Resim" width="100%" height="100%" class="img-fluid">
+        </div>
+        <!-- Sağ taraf: Form -->
+        <div class="col-md-6 align-items-center justify-content-center">
+            <img src="~/images/eee.jpg" alt="Resim" class="img-fluid" style="margin-left:40px">
+
+            <h3 class="text-center" style="margin-top:40px; margin-left:55px;">KAYIT</h3>
+            
+            <!-- Form Başlangıcı -->
+            <form asp-action="KullaniciKayit" method="post" class="needs-validation" style="margin-top: 20px; margin-left: 70px;">
+                <div class="row g-1">
+                    <div class="col-md-6">
+                        <div class="form-floating">
+                            <input asp-for="ad" class="form-control" id="adInput" placeholder="Adınız">
+                            <label for="adInput">Adınız</label>
+                            <span asp-validation-for="ad" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-floating">
+                            <input asp-for="soyad" class="form-control" id="soyadInput" placeholder="Soyadınız">
+                            <label for="soyadInput">Soyadınız</label>
+                            <span asp-validation-for="soyad" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-floating mb-3" style="margin-top: 15px;">
+                    <input asp-for="email" class="form-control" id="emailInput" placeholder="name@example.com">
+                    <label for="emailInput">Email adresiniz</label>
+                    <span asp-validation-for="email" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="sifre" class="form-control" id="passwordInput" type="password" placeholder="Şifreniz">
+                    <label for="passwordInput">Şifreniz</label>
+                    <span asp-validation-for="sifre" class="text-danger"></span>
+                </div>
+                <div class="text-center" style="margin-top: 30px;">
+                    <button type="submit" class="btn btn-primary">Kayıt Ol</button>
+                </div>
+            </form>
+            <p style="margin-top: 30px;">Zaten bir hesabınız varsa <a href="~/Kullanici/Index">Giriş Yap</a></p>
+        </div>
+    </div>
+</div>
+
+     <!-- Başarı mesajı -->
+            @if (ViewData["SuccessMessage"] != null) {
+                <div class="alert alert-success" style="margin-top: 20px;">
+                    @ViewData["SuccessMessage"]
+                </div> }

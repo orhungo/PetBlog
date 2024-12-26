@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets/images/ddd.png"
     },
     {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/eee.jpg",
+      "PackagePath": "staticwebassets/images/eee.jpg"
+    },
+    {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/ggg.jpg",
       "PackagePath": "staticwebassets/images/ggg.jpg"
     },
@@ -51,6 +55,10 @@
     {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/heads.jpg",
       "PackagePath": "staticwebassets/images/heads.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/hhh.jpg",
+      "PackagePath": "staticwebassets/images/hhh.jpg"
     },
     {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/nnn.jpg",

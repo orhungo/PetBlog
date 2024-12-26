@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "r047h4fagWbRiRP2T1GWWiqNZW0MczhFnp7fXa47Sao=",
+  "Hash": "R+ioK26gEGrTh9Kw+JrFf1fsCJ71uA6oP5i3sWzV1NA=",
   "Source": "PetBlog",
   "BasePath": "_content/PetBlog",
   "Mode": "Default",
@@ -207,6 +207,25 @@
       "OriginalItemSpec": "wwwroot/images/ddd.png"
     },
     {
+      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/eee.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "images/eee.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/eee.jpg"
+    },
+    {
       "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/ggg.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
@@ -281,6 +300,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/heads.jpg"
+    },
+    {
+      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/hhh.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "images/hhh.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/hhh.jpg"
     },
     {
       "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/nnn.jpg",
