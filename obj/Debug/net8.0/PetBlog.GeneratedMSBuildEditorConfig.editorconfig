@@ -34,6 +34,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS3VsbGFuaWNpL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/justiwgo/Documents/Proje/PetBlog/Views/Pet/PetProfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGV0L1BldFByb2ZpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/justiwgo/Documents/Proje/PetBlog/Views/Profil/KullaniciProfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmlsL0t1bGxhbmljaVByb2ZpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/justiwgo/Documents/Proje/PetBlog/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

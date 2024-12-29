@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R+ioK26gEGrTh9Kw+JrFf1fsCJ71uA6oP5i3sWzV1NA=",
+  "Hash": "r5gKOpGYJIorydoIJ1iqCAJNguAonHkRUtHV5kfGjzQ=",
   "Source": "PetBlog",
   "BasePath": "_content/PetBlog",
   "Mode": "Default",
@@ -321,6 +321,25 @@
       "OriginalItemSpec": "wwwroot/images/hhh.jpg"
     },
     {
+      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/max.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "images/max.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/max.jpg"
+    },
+    {
       "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/nnn.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
@@ -473,6 +492,25 @@
       "OriginalItemSpec": "wwwroot/images/sss.jpg"
     },
     {
+      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/sut.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "images/sut.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/sut.jpg"
+    },
+    {
       "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/v.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
@@ -528,6 +566,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/yyy.jpg"
+    },
+    {
+      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/zipir.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "images/zipir.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/zipir.jpg"
     },
     {
       "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/js/site.js",

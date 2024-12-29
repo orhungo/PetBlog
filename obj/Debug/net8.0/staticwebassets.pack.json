@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets/images/hhh.jpg"
     },
     {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/max.jpg",
+      "PackagePath": "staticwebassets/images/max.jpg"
+    },
+    {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/nnn.jpg",
       "PackagePath": "staticwebassets/images/nnn.jpg"
     },
@@ -93,6 +97,10 @@
       "PackagePath": "staticwebassets/images/sss.jpg"
     },
     {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/sut.jpg",
+      "PackagePath": "staticwebassets/images/sut.jpg"
+    },
+    {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/v.jpg",
       "PackagePath": "staticwebassets/images/v.jpg"
     },
@@ -103,6 +111,10 @@
     {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/yyy.jpg",
       "PackagePath": "staticwebassets/images/yyy.jpg"
+    },
+    {
+      "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/zipir.jpg",
+      "PackagePath": "staticwebassets/images/zipir.jpg"
     },
     {
       "Id": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/js/site.js",
