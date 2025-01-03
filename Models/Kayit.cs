@@ -1,6 +1,7 @@
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Identity;
 namespace PetBlog.Models{
-public class Kayit{
+public class Kayit {
 [Key]
 public int userID { get; set; }
 [Required]

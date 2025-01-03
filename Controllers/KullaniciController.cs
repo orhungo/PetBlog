@@ -24,13 +24,13 @@ public class KullaniciController : Controller {
         // Eğer kullanıcı bulunursa
         if (Kullanici != null)
         {
-            // Kullanıcıyı başarılı bir şekilde giriş yapmış olarak yönlendirme
+            // Kullanıcıyı başarılı bir şekilde giriş yaptıysa
             TempData["SuccessMessage"] = "Giriş başarılı!";
-            return RedirectToAction("Index", "Home"); // Ana sayfaya yönlendir
+            return RedirectToAction("KullaniciProfil", "Profil"); // Profile yönlendir
         }
         else
         {
-            // Kullanıcı bulunamazsa hata mesajı
+            // Kullanıcı bulunamazsa 
             TempData["ErrorMessage"] = "Geçersiz email veya şifre.";
             return View();
         }

@@ -137,3 +137,4 @@
 /Users/justiwgo/Documents/Proje/PetBlog/obj/Debug/net8.0/PetBlog.pdb
 /Users/justiwgo/Documents/Proje/PetBlog/obj/Debug/net8.0/PetBlog.genruntimeconfig.cache
 /Users/justiwgo/Documents/Proje/PetBlog/obj/Debug/net8.0/ref/PetBlog.dll
+/Users/justiwgo/Documents/Proje/PetBlog/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

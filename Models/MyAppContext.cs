@@ -9,6 +9,8 @@ namespace petblog.Models {
 
         public DbSet<Kullanici> kullanicilar {get; set;}
         public DbSet<Kayit> kayitli {get; set;}
+        public DbSet<Pet> petler {get; set;}
+        
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

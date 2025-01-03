@@ -1,3 +1,4 @@
+@model List<Pet>
 @{
     ViewData["Title"] = "Profile";
 }
@@ -18,7 +19,7 @@
   </div>
 </div>
 
-<p><b class="fs-3"  style="margin-left: 30px;">PETLERİM</b> <button type="button" class="btn btn-outline-success" style="margin-left: 10px;">Pet Ekle</button></p>
+<p><b class="fs-3"  style="margin-left: 30px;">PETLERİM</b> <button type="button" class="btn btn-outline-success" style="margin-right: 30px; float: right;"><a style="color: darkgreen;" href="~/Pet/PetProfil">Pet Ekle</a></button></p>
 
 <div class="row row-cols-1 row-cols-md-3 g-2">
   <div class="col">
@@ -60,6 +61,28 @@
       </div>
     </div>
   </div>
+
+       @foreach (var pet in Model)
+    {
+        <div class="col">
+            <div class="card h-100">
+                <!-- Pet fotoğrafını base64 olarak ekliyoruz -->
+                <img src="data:image/jpeg;base64,@Convert.ToBase64String(pet.petFoto)" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <!-- Pet adı ve diğer bilgiler -->
+                    <h5 class="card-title">@pet.petAd</h5>
+                    <p class="card-text">@pet.petBilgi</p> <!-- Pet hakkında açıklama -->
+                </div>
+                <div class="card-footer">
+                    <!-- Düzenle ve Sil linklerini dinamik hale getirmek -->
+                    <a href="@Url.Action("Edit", "Pet", new { id = pet.petID })" class="card-link">Düzenle</a>
+                    <a href="@Url.Action("Delete", "Pet", new { id = pet.petID })" class="card-link" style="color: red;">Sil</a>
+                </div>
+            </div>
+        </div>
+    }
+
+  
 </div>
 
 <br>
