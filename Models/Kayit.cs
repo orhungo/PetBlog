@@ -10,5 +10,7 @@ public string ad { get; set; }="";
 public string soyad { get; set; }="";
 public string email { get; set; }="";
 public string sifre {get;set;}="";
+public byte[]? userFoto {get; set;}
+public string userBilgi {get; set;}="";
 }
 }

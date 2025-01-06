@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "r5gKOpGYJIorydoIJ1iqCAJNguAonHkRUtHV5kfGjzQ=",
+  "Hash": "22XApvuv+jRTmv4E09bZ3peSVDxVo4Jw3KIl+/kAU+w=",
   "Source": "PetBlog",
   "BasePath": "_content/PetBlog",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot/images/a.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/b.jpg",
+      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/bb.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
       "BasePath": "_content/PetBlog",
-      "RelativePath": "images/b.jpg",
+      "RelativePath": "images/bb.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/b.jpg"
+      "OriginalItemSpec": "wwwroot/images/bb.jpg"
     },
     {
       "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/c.jpg",
