@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/justiwgo/Documents/Proje/PetBlog/PetBlog.csproj": {}
+    "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\PetBlog.csproj": {}
   },
   "projects": {
-    "/Users/justiwgo/Documents/Proje/PetBlog/PetBlog.csproj": {
+    "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\PetBlog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/justiwgo/Documents/Proje/PetBlog/PetBlog.csproj",
+        "projectUniqueName": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\PetBlog.csproj",
         "projectName": "PetBlog",
-        "projectPath": "/Users/justiwgo/Documents/Proje/PetBlog/PetBlog.csproj",
-        "packagesPath": "/Users/justiwgo/.nuget/packages/",
-        "outputPath": "/Users/justiwgo/Documents/Proje/PetBlog/obj/",
+        "projectPath": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\PetBlog.csproj",
+        "packagesPath": "C:\\Users\\yldrm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/justiwgo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\yldrm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -91,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

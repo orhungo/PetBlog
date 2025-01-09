@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+/*using Microsoft.AspNetCore.Mvc;
 using petblog.Models;
 using PetBlog.Models;
 
@@ -47,4 +47,4 @@ public class ProfilController:Controller {
   
 
 
-}
+}*/

@@ -10,8 +10,8 @@ using petblog.Models;
 namespace PetBlog.Migrations
 {
     [DbContext(typeof(MyAppContext))]
-    [Migration("20250103175038_Updatedped")]
-    partial class Updatedped
+    [Migration("20250109152814_AddYoneticiTable")]
+    partial class AddYoneticiTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -43,6 +43,13 @@ namespace PetBlog.Migrations
                     b.Property<string>("soyad")
                         .IsRequired()
                         .HasColumnType("longtext");
+
+                    b.Property<string>("userBilgi")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<byte[]>("userFoto")
+                        .HasColumnType("longblob");
 
                     b.HasKey("userID");
 
@@ -101,6 +108,40 @@ namespace PetBlog.Migrations
                     b.HasKey("petID");
 
                     b.ToTable("petler");
+                });
+
+            modelBuilder.Entity("PetBlog.Models.Yonetici", b =>
+                {
+                    b.Property<int>("yoneticiId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<string>("eposta")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("kullaniciAdi")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar(50)");
+
+                    b.Property<string>("sifre")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("varchar(100)");
+
+                    b.HasKey("yoneticiId");
+
+                    b.ToTable("Yoneticiler");
+
+                    b.HasData(
+                        new
+                        {
+                            yoneticiId = 1,
+                            eposta = "admin@admin.com",
+                            kullaniciAdi = "admin",
+                            sifre = "123456"
+                        });
                 });
 #pragma warning restore 612, 618
         }

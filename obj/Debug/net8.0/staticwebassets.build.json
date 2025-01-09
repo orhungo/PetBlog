@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "22XApvuv+jRTmv4E09bZ3peSVDxVo4Jw3KIl+/kAU+w=",
+  "Hash": "DHrQvtE0x6oo4ID7PQKxgCkt6UUU7/RPF4sqOHutWKo=",
   "Source": "PetBlog",
   "BasePath": "_content/PetBlog",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "PetBlog/wwwroot",
+      "Name": "PetBlog\\wwwroot",
       "Source": "PetBlog",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/obj/Debug/net8.0/scopedcss/bundle/PetBlog.styles.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PetBlog.styles.css",
       "SourceId": "PetBlog",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "PetBlog.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/justiwgo/Documents/Proje/PetBlog/obj/Debug/net8.0/scopedcss/bundle/PetBlog.styles.css"
+      "OriginalItemSpec": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PetBlog.styles.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/obj/Debug/net8.0/scopedcss/projectbundle/PetBlog.bundle.scp.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PetBlog.bundle.scp.css",
       "SourceId": "PetBlog",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "PetBlog.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/justiwgo/Documents/Proje/PetBlog/obj/Debug/net8.0/scopedcss/projectbundle/PetBlog.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PetBlog.bundle.scp.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/css/site.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\css\\site.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/favicon.ico",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\favicon.ico",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/a.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\a.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/a.jpg",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/a.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\a.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/bb.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\bb.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/bb.jpg",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/bb.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\bb.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/c.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\c.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/c.jpg",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/c.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\c.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/ccc.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\ccc.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/ccc.jpg",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/ccc.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\ccc.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/cute.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\cute.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/cute.jpg",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/cute.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\cute.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/ddd.png",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\ddd.png",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/ddd.png",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/ddd.png"
+      "OriginalItemSpec": "wwwroot\\images\\ddd.png"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/eee.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\eee.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/eee.jpg",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/eee.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\eee.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/ggg.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\ggg.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/ggg.jpg",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/ggg.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\ggg.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/head.png",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\head.png",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/head.png",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/head.png"
+      "OriginalItemSpec": "wwwroot\\images\\head.png"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/header.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\header.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/header.jpg",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/header.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\header.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/heads.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\heads.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/heads.jpg",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/heads.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\heads.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/hhh.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\hhh.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/hhh.jpg",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/hhh.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\hhh.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/max.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\max.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/max.jpg",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/max.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\max.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/nnn.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\nnn.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/nnn.jpg",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/nnn.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\nnn.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/nnnn.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\nnnn.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/nnnn.jpg",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/nnnn.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\nnnn.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/paws.webp",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\paws.webp",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/paws.webp",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/paws.webp"
+      "OriginalItemSpec": "wwwroot\\images\\paws.webp"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/ppp.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\ppp.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/ppp.jpg",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/ppp.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\ppp.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/q.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\q.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/q.jpg",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/q.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\q.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/qqq.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\qqq.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/qqq.jpg",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/qqq.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\qqq.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/rrr.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\rrr.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/rrr.jpg",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/rrr.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\rrr.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/sss.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\sss.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/sss.jpg",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/sss.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\sss.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/sut.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\sut.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/sut.jpg",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/sut.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\sut.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/v.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\v.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/v.jpg",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/v.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\v.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/www.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\www.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/www.jpg",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/www.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\www.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/yyy.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\yyy.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/yyy.jpg",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/yyy.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\yyy.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/images/zipir.jpg",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\zipir.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "images/zipir.jpg",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/zipir.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\zipir.jpg"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/js/site.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\js\\site.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1249,13 +1249,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1268,13 +1268,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1287,13 +1287,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1325,13 +1325,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1344,13 +1344,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1363,13 +1363,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1382,13 +1382,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1401,13 +1401,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1420,13 +1420,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1439,13 +1439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1458,13 +1458,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1477,13 +1477,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1496,13 +1496,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1515,13 +1515,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1534,13 +1534,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1553,13 +1553,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1572,13 +1572,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1591,13 +1591,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1610,13 +1610,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1629,13 +1629,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1648,13 +1648,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1667,13 +1667,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/justiwgo/Documents/Proje/PetBlog/wwwroot/",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
       "BasePath": "_content/PetBlog",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1686,7 +1686,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     }
   ]
 }

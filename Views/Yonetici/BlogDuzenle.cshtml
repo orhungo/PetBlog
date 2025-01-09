@@ -1,0 +1,39 @@
+@model Blog
+@{
+    ViewData["Title"] = "Blog Düzenle";
+    Layout = "_AdminLayout";
+}
+
+<div class="card shadow">
+    <div class="card-header bg-primary text-white">
+        <h3 class="mb-0">Blog Düzenle</h3>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <input type="hidden" asp-for="blogId" />
+            <input type="hidden" asp-for="yoneticiId" />
+            <input type="hidden" asp-for="olusturmaTarihi" />
+            
+            <div class="mb-3">
+                <label asp-for="baslik" class="form-label">Başlık</label>
+                <input asp-for="baslik" class="form-control" required>
+                <span asp-validation-for="baslik" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="icerik" class="form-label">İçerik</label>
+                <textarea asp-for="icerik" class="form-control" rows="10" required></textarea>
+                <span asp-validation-for="icerik" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <div class="form-check">
+                    <input asp-for="aktifMi" class="form-check-input">
+                    <label asp-for="aktifMi" class="form-check-label">Aktif</label>
+                </div>
+            </div>
+            <div class="d-flex gap-2">
+                <button type="submit" class="btn btn-primary">Güncelle</button>
+                <a asp-action="Panel" class="btn btn-secondary">İptal</a>
+            </div>
+        </form>
+    </div>
+</div> 
