@@ -17,6 +17,8 @@ namespace PetBlog.Models
         public DateTime olusturmaTarihi { get; set; }
         public DateTime? guncellemeTarihi { get; set; }
         public bool aktifMi { get; set; } = true;
-        public int yoneticiId { get; set; }
+        public int yoneticiId { get; set; } 
+
+         public string? gorselUrl { get; set; } 
     }
 }

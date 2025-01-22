@@ -1,4 +1,4 @@
-@model Blog
+@model PetBlog.Models.Blog
 @{
     ViewData["Title"] = "Blog Düzenle";
     Layout = "_AdminLayout";
@@ -9,7 +9,17 @@
         <h3 class="mb-0">Blog Düzenle</h3>
     </div>
     <div class="card-body">
-        <form method="post">
+        @if (TempData["Hata"] != null)
+        {
+            <div class="alert alert-danger">@TempData["Hata"]</div>
+        }
+
+        @if (TempData["Basari"] != null)
+        {
+            <div class="alert alert-success">@TempData["Basari"]</div>
+        }
+
+        <form method="post" asp-action="BlogDuzenle" enctype="multipart/form-data">
             <input type="hidden" asp-for="blogId" />
             <input type="hidden" asp-for="yoneticiId" />
             <input type="hidden" asp-for="olusturmaTarihi" />
@@ -23,6 +33,10 @@
                 <label asp-for="icerik" class="form-label">İçerik</label>
                 <textarea asp-for="icerik" class="form-control" rows="10" required></textarea>
                 <span asp-validation-for="icerik" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="gorselUrl" class="form-label">Görsel Yükle</label>
+                <input type="file" name="gorsel" class="form-control" />
             </div>
             <div class="mb-3">
                 <div class="form-check">

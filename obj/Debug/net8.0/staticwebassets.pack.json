@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PetBlog.bundle.scp.css",
-      "PackagePath": "staticwebassets\\PetBlog.bundle.scp.css"
+      "PackagePath": "staticwebassets\\PetBlog.acd2e7rigk.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\css\\site.css",
@@ -21,12 +21,20 @@
       "PackagePath": "staticwebassets\\images\\bb.jpg"
     },
     {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\blog-arka.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-arka.jpg"
+    },
+    {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\c.jpg",
       "PackagePath": "staticwebassets\\images\\c.jpg"
     },
     {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\ccc.jpg",
       "PackagePath": "staticwebassets\\images\\ccc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\close-up-woman-cute-dog.jpg",
+      "PackagePath": "staticwebassets\\images\\close-up-woman-cute-dog.jpg"
     },
     {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\images\\cute.jpg",
@@ -347,6 +355,22 @@
     {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\ca001432-678a-44a2-9fcd-72d332d03452.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\ca001432-678a-44a2-9fcd-72d332d03452.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PetBlog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PetBlog.Microsoft.AspNetCore.StaticWebAssets.props",

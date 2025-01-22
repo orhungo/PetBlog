@@ -1,0 +1,12 @@
+@model PetBlog.Models.Blog
+
+@{
+    ViewData["Title"] = Model.baslik; // Sayfa başlığı blog başlığı olarak ayarlanır
+}
+
+<div class="container mt-4">
+    <h1 class="text-center">@Model.baslik</h1>
+    <img src="@Model.gorselUrl" alt="@Model.baslik" class="img-fluid mb-4" style="max-height: 400px; object-fit: cover;" />
+    <p>@Model.icerik</p>
+    <a asp-action="Index" asp-controller="Anasayfa" class="btn btn-secondary">Geri Dön</a>
+</div> 

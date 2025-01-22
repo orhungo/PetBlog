@@ -10,6 +10,13 @@
         <a asp-action="BlogEkle" class="btn btn-light">Yeni Blog Ekle</a>
     </div>
     <div class="card-body">
+        <form method="get" asp-action="Panel" class="mb-3">
+            <div class="input-group">
+                <input type="text" name="arama" class="form-control" placeholder="Başlık veya içerik ara..." />
+                <button class="btn btn-outline-secondary" type="submit">Ara</button>
+            </div>
+        </form>
+
         @if (!Model.Any())
         {
             <div class="alert alert-info">Henüz blog yazısı bulunmamaktadır.</div>

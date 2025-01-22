@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "PetBlog",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 5000,
+				"server": "172.21.54.253",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "proje",
+				"database": "PetBlog",
+				"username": "ogr_131930072",
+				"password": "!nif.ogr72OR",
+				"connectionTimeout": 100000
+			}
+		]
+	}
+}
