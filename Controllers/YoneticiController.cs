@@ -188,5 +188,23 @@ namespace petblog.Controllers
             }
             return View(blog); // Blog verisini görüntüleme sayfasına gönderir
         }
+
+        [HttpPost]
+        public async Task<IActionResult> DurumDegistir(int id)
+        {
+            var blog = await _context.Bloglar.FindAsync(id);
+            if (blog == null)
+            {
+                return NotFound();
+            }
+
+            // Durumu değiştir
+            blog.aktifMi = !blog.aktifMi; // Aktif ise pasif, pasif ise aktif yap
+            _context.Bloglar.Update(blog);
+            await _context.SaveChangesAsync();
+
+            TempData["Basari"] = "Blog durumu başarıyla güncellendi!";
+            return RedirectToAction("Panel");
+        }
     }
 }

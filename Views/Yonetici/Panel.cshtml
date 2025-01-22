@@ -45,13 +45,17 @@
                                     </span>
                                 </td>
                                 <td>
-                                    <a asp-action="BlogDuzenle" asp-route-id="@blog.blogId" 
-                                       class="btn btn-sm btn-warning">
+                                    <form asp-action="DurumDegistir" method="post" style="display:inline;">
+                                        <input type="hidden" name="id" value="@blog.blogId" />
+                                        <button type="submit" class="btn btn-sm btn-@(blog.aktifMi ? "danger" : "success")">
+                                            @(blog.aktifMi ? "Pasif Yap" : "Aktif Yap")
+                                        </button>
+                                    </form>
+                                    <a asp-action="BlogDuzenle" asp-route-id="@blog.blogId" class="btn btn-sm btn-warning">
                                         <i class="bi bi-pencil"></i> Düzenle
                                     </a>
-                                    <a asp-action="DurumDegistir" asp-route-id="@blog.blogId" 
-                                       class="btn btn-sm btn-@(blog.aktifMi ? "danger" : "success")">
-                                        @(blog.aktifMi ? "Pasif Yap" : "Aktif Yap")
+                                    <a asp-action="Delete" asp-route-id="@blog.blogId" class="btn btn-sm btn-danger">
+                                        Sil
                                     </a>
                                 </td>
                             </tr>

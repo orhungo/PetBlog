@@ -357,6 +357,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\13577c22-15ca-4f20-8fb5-4476866bb1b7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\13577c22-15ca-4f20-8fb5-4476866bb1b7.jpg"
+    },
+    {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg",
       "PackagePath": "staticwebassets\\uploads\\blog-images\\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg"
     },
@@ -365,8 +369,20 @@
       "PackagePath": "staticwebassets\\uploads\\blog-images\\3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.jpg"
     },
     {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\be4fb571-209e-40af-84fd-3c1f76f89cf5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\be4fb571-209e-40af-84fd-3c1f76f89cf5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\c8e2ad23-4239-4a05-bcc7-59c0239cca06.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\c8e2ad23-4239-4a05-bcc7-59c0239cca06.jpg"
+    },
+    {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\ca001432-678a-44a2-9fcd-72d332d03452.jpg",
       "PackagePath": "staticwebassets\\uploads\\blog-images\\ca001432-678a-44a2-9fcd-72d332d03452.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\f1314e80-b859-4ebd-b592-0f92392a832d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\f1314e80-b859-4ebd-b592-0f92392a832d.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PetBlog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
