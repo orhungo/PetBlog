@@ -1,7 +1,7 @@
 using AspNetCoreGeneratedDocument;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using petblog.Models;
-using PetBlog.Migrations;
 using PetBlog.Models;
 
 namespace PetBlog.Controllers;
@@ -38,22 +38,22 @@ public class PetController:Controller {
       return View (pet);
   }
 
-  [HttpPost]
+    [HttpPost]
     public async Task<IActionResult> Delete(int id)
     {
-        // İlgili pet'i veritabanından bul
+      
         var pet = await _context.petler.FindAsync(id);
         if (pet == null)
         {
-            // Eğer pet bulunamazsa, hata döndürüyoruz
+           
             return NotFound();
         }
 
-        // Pet'i veritabanından sil
+        
         _context.petler.Remove(pet);
-        await _context.SaveChangesAsync(); // Veritabanına değişikliği kaydet
+        await _context.SaveChangesAsync(); 
 
-        // Silme işlemi başarılı olduktan sonra profil sayfasına yönlendir
+        
         return RedirectToAction("KullaniciProfil", "Profil");
     }
 
@@ -61,50 +61,50 @@ public class PetController:Controller {
     [HttpGet]
     public IActionResult PetDuzenle(int id)
     {
-        // İlgili pet'i veritabanından al
-        var pet = _context.petler.FirstOrDefault(p => p.petID == id);
+        var pet = _context.petler.FirstOrDefault(p => p.petID == Convert.ToInt32(id));
 
         if (pet == null)
         {
-            return NotFound(); // Eğer pet bulunamazsa 404 döner
+            return NotFound(); 
         }
 
-        return View(pet); // Pet bilgisini düzenleme formuna gönder
+        return View(pet); 
     }
 
     [HttpPost]
-[ValidateAntiForgeryToken]  // CSRF koruması
+[ValidateAntiForgeryToken]  
 public IActionResult PetDuzenle(Pet pet, IFormFile petFoto)
 {
-    // Veritabanından ilgili pet'i bul
+
     var existingPet = _context.petler.FirstOrDefault(p => p.petID == pet.petID);
 
     if (existingPet == null)
     {
-        return NotFound(); // Eğer pet bulunamazsa 404 döner
+        return NotFound(); 
     }
 
-    // Fotoğraf yüklenmişse
+
     if (petFoto != null && petFoto.Length > 0)
     {
         using (var memoryStream = new MemoryStream())
         {
-            petFoto.CopyTo(memoryStream); // Fotoğrafı belleğe yükle
-            existingPet.petFoto = memoryStream.ToArray(); // Fotoğrafı byte array olarak kaydet
+            petFoto.CopyTo(memoryStream);
+            existingPet.petFoto = memoryStream.ToArray(); 
         }
     }
 
-    // Diğer bilgileri güncelle
+
     existingPet.petAd = pet.petAd;
     existingPet.petYas = pet.petYas;
     existingPet.petBilgi = pet.petBilgi;
 
-    // Değişiklikleri kaydet
+
     _context.SaveChanges();
 
-    // Kullanıcı profil sayfasına yönlendir
     return RedirectToAction("KullaniciProfil", "Profil");
 }
-
-
 }
+
+
+
+

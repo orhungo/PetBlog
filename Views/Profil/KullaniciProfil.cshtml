@@ -1,4 +1,4 @@
-@model List<Pet>
+@model ProfilPetViewModel
 @{
     ViewData["Title"] = "Profile";
 }
@@ -10,15 +10,26 @@
 <div class="card mb-3" style="max-width: 100%; margin-top: 25px;">
   <div class="row g-0" >
     <div class="col-md-4 ">
-      <img src="~/images/cute.jpg" class="img-fluid rounded-start" alt="...">
+      @if (Model.kullanici.userFoto != null) 
+      {
+      <img src="data:image/jpeg;base64,@Convert.ToBase64String(Model.kullanici.userFoto)" class="card-img-top" alt="...">
+      } else 
+      {
+          <img src="~/images/cute.jpg" alt="Default Profile Image" width="300px"/>
+      }
     </div>
     <div class="col-md-8 ">
       <div class="card-body">
-        <h5 class="card-title">İsim Soyisim</h5>
-        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, voluptas maiores. Incidunt, sed voluptatem dignissimos reiciendis laboriosam expedita ullam nihil quasi tempore blanditiis! Sapiente, vel? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime veritatis nobis sint natus qui voluptatibus eos asperiores aut, sit unde?</p>
-        <p class="card-text"><small class="text-body-secondary">Lorem ipsum dolor sit amet.</small></p>
-        <button class="btn btn-primary">Profili Düzenle</button>
-      </div>
+        <a asp-action="CikisYap" asp-controller="Profil" class="btn btn-danger" style="float: right;">Çıkış Yap</a>
+
+
+        <h5 class="card-title">@Model.kullanici.ad @Model.kullanici.soyad</h5>
+        <p class="card-text">@Model.kullanici.userBilgi</p>
+        <p class="card-text"><small class="text-body-secondary">@Model.kullanici.email</small></p>
+
+     <a href="@Url.Action("ProfilDuzenle", "Profil", new { id = Model.kullanici.userID })" class="btn btn-primary">Bilgileri Düzenle</a>
+ 
+       </div>
     </div>
   </div>
 </div>
@@ -26,13 +37,13 @@
 <p><b class="fs-3"  style="margin-left: 30px;">PETLERİM</b> <button type="button" class="btn btn-outline-success" style="margin-right: 30px; float: right;"><a style="color: darkgreen;" href="~/Pet/PetProfil">Pet Ekle</a></button></p>
 
 <div class="row row-cols-1 row-cols-md-3 g-2">
-    @foreach (var pet in Model)
+    @foreach (var pet in Model.petler)
     {
     <div class="col">
       <div class="card">
         <img src="data:image/jpeg;base64,@Convert.ToBase64String(pet.petFoto)" class="card-img-top" alt="...">
          <div class="card-body">
-          <h5 class="card-title">@pet.petAd <span class="text-muted">(@pet.petYas Yaşında)</span></h5>
+          <h5 class="card-title">@pet.petAd <span class="text-muted">(@pet.petYas Yaşında)</span> <span class="text-muted">(@pet.petCins)</span></h5>
           <p class="card-text">@pet.petBilgi</p>
          </div>
         <div class="card-footer" style="display: flex;">

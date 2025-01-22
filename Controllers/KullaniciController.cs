@@ -1,4 +1,4 @@
-/*using System.Diagnostics;
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using petblog.Models;
 using PetBlog.Models;
@@ -14,25 +14,26 @@ public class KullaniciController : Controller {
         return View();
     }
 
-    [HttpPost]
-    public IActionResult Index(string email, string sifre)
-    {
-        // Kullanıcıyı veritabanında arama
-        var Kullanici = _context.kayitli
-            .FirstOrDefault(k => k.email == email && k.sifre == sifre);
+   [HttpPost]
+public IActionResult Index(string email, string sifre)
+{
+  
+    var Kullanici = _context.kayitli.FirstOrDefault(k => k.email == email && k.sifre == sifre);
 
-        // Eğer kullanıcı bulunursa
-        if (Kullanici != null)
-        {
-            // Kullanıcıyı başarılı bir şekilde giriş yaptıysa
-            TempData["SuccessMessage"] = "Giriş başarılı!";
-            return RedirectToAction("KullaniciProfil", "Profil"); // Profile yönlendir
-        }
-        else
-        {
-            // Kullanıcı bulunamazsa 
-            TempData["ErrorMessage"] = "Geçersiz email veya şifre.";
-            return View();
-        }
+  
+    if (Kullanici != null)
+    {
+       
+        HttpContext.Session.SetInt32("userId", Kullanici.userID); 
+        TempData["SuccessMessage"] = "Giriş başarılı!";
+        return RedirectToAction("KullaniciProfil", "Profil"); 
     }
-}*/
+    else
+    {
+
+        TempData["ErrorMessage"] = "Geçersiz email veya şifre.";
+        return View();
+    }
+}
+
+}

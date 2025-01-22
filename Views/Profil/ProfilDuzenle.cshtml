@@ -1,0 +1,49 @@
+@model Kayit
+
+
+<div class="container-fluid">
+  <div class="row">
+
+     <div class="col-md-5" style="margin-top:150px; ">
+            <img src="~/images/bb.jpg" alt="Resim" width="250px" height="200px" style="float: right;" class="img-fluid">
+        </div>
+ <div class="col-md-6 align-items-center justify-content-center">
+<img src="~/images/yyy.jpg" alt="Resim" class="img-fluid" style="margin-left:40px; margin-top:40px;">
+
+<h3 class="text-center" style="margin-top:40px; margin-left:55px;">BİLGİLERİ DÜZENLE</h3>
+
+<form method="post" enctype="multipart/form-data" style="margin-left: 120px;">
+    
+    <input type="hidden" name="userID" value="@Model.userID" />
+
+    <div class="form-group" style="margin-top: 20px;">
+        <label for="ad">isim</label>
+        <input type="text" class="form-control" id="ad" name="ad" value="@Model.ad" required />
+    </div>
+    
+    <div class="form-group" style="margin-top: 10px;">
+        <label for="soyad">Soyisiim</label>
+        <input type="text" class="form-control" id="soyad" name="soyad" value="@Model.soyad" required />
+    </div>
+     <div class="form-group" style="margin-top: 10px;">
+        <label for="email">E-mail</label>
+        <input type="text" class="form-control" id="email" name="email" value="@Model.email" required />
+    </div>
+
+    <div class="form-group" style="margin-top: 10px;">
+        <label for="userBilgi">Bilgileriniz</label>
+        <textarea class="form-control" id="userBilgi" name="userBilgi" required>@Model.userBilgi</textarea>
+    </div>
+
+    <div class="form-group" style="margin-top: 10px;">
+        <label for="userFoto">Profil Fotoğrafı</label>
+        <input type="file" class="form-control" id="userFoto" name="userFoto" />
+    </div>
+
+     <div class="text-center" style="margin-top: 20px; margin-left:55px; margin-bottom: 40px;">
+        <button type="submit" class="btn btn-primary" value="kaydet">Kaydet</button>
+    </div>
+</form>
+ </div>
+  </div>
+</div>

@@ -11,5 +11,6 @@ public string petTur { get; set; }="";
 public int petYas {get;set;}
 public string petBilgi {get; set;}="";
 public byte[]? petFoto {get; set;}
+
 }
 }

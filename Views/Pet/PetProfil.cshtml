@@ -21,9 +21,9 @@
                          <div class="form-floating">
                             <select asp-for="petTur" class="form-select" id="floatingSelectGrid" style="margin-top: 15px; margin-bottom: 15px;">
                                  <option selected>Seçiniz</option>
-                                  <option value="1">Kedi</option>
-                                  <option value="2">Köpek</option>
-                                 <option value="3">Kuş</option>
+                                  <option value="Kedi">Kedi</option>
+                                  <option value="Köpek">Köpek</option>
+                                 <option value="Kuş">Kuş</option>
                              </select>
                              <label for="floatingInputGrid">Pet Türü</label>
                          <span asp-validation-for="petTur" class="text-danger"></span>
@@ -33,9 +33,12 @@
                         <div class="form-floating">
                             <select asp-for="petCins" class="form-select" id="floatingSelectGrid" style="margin-top: 15px; margin-bottom: 15px;">
                                  <option selected>Seçiniz</option>
-                                  <option value="1">One</option>
-                                   <option value="2">Two</option>
-                                   <option value="3">Three</option>
+                                  <option value="Sarman">Sarman</option>
+                                   <option value="Calico">Calico</option>
+                                   <option value="British Shorthair">British Shorthair</option>
+                                   <option value="British Longhair">British Longhair</option>
+                                   <option value="Van Kedisi">Van Kedisi</option>
+                                   <option value="Scottish">Scottish Fold</option>
                              </select>
                              <label for="floatingSelectGrid">Pet Cinsi</label>
                             <span asp-validation-for="petCins" class="text-danger"></span>

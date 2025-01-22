@@ -1,4 +1,4 @@
-/*using System.Diagnostics;
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using petblog.Models;
 using PetBlog.Models;
@@ -26,4 +26,4 @@ public class KayitController : Controller {
     }
 
 
-}*/
+}
