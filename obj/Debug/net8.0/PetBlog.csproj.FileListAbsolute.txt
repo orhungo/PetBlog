@@ -142,10 +142,16 @@ C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\PetBlog.exe
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\PetBlog.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\appsettings.json
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\PetBlog.staticwebassets.runtime.json
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\PetBlog.staticwebassets.endpoints.json
+C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\PetBlog.deps.json
+C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\PetBlog.runtimeconfig.json
+C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\PetBlog.pdb
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Humanizer.dll
@@ -156,7 +162,6 @@ C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.CodeAnalys
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
@@ -171,8 +176,6 @@ C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.IdentityMo
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\MySqlConnector.dll
-C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -276,8 +279,5 @@ C:\Users\yldrm\Desktop\githubProje\PetBlog\obj\Debug\net8.0\PetBlog.csproj.Up2Da
 C:\Users\yldrm\Desktop\githubProje\PetBlog\obj\Debug\net8.0\PetBlog.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\obj\Debug\net8.0\refint\PetBlog.dll
 C:\Users\yldrm\Desktop\githubProje\PetBlog\obj\Debug\net8.0\PetBlog.pdb
-C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\PetBlog.deps.json
-C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\PetBlog.runtimeconfig.json
-C:\Users\yldrm\Desktop\githubProje\PetBlog\bin\Debug\net8.0\PetBlog.pdb
 C:\Users\yldrm\Desktop\githubProje\PetBlog\obj\Debug\net8.0\PetBlog.genruntimeconfig.cache
 C:\Users\yldrm\Desktop\githubProje\PetBlog\obj\Debug\net8.0\ref\PetBlog.dll

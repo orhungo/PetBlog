@@ -17,19 +17,19 @@ namespace petblog.Controllers
         // Blog yazılarını listeleme
         public IActionResult Index()
         {
-            var bloglar = _context.Bloglar.ToList(); // Tüm blogları al
-            return View(bloglar); // Blogları görüntüleme sayfasına gönder
+            var bloglar = _context.Bloglar.ToList(); 
+            return View(bloglar); 
         }
-
-        // Belirli bir blog yazısını görüntüleme
-        public IActionResult Details(int id)
+        
+                public IActionResult Details(int id)
         {
             var blog = _context.Bloglar.FirstOrDefault(b => b.blogId == id);
             if (blog == null)
             {
-                return NotFound(); // Blog bulunamazsa 404 döner
+                return NotFound();
             }
-            return View(blog); // Blog verisini görüntüleme sayfasına gönderir
+
+            return View(blog); // Sadece mevcut blog verisini görüntüleme sayfasına gönderir
         }
 
         // Blog ekleme sayfası
@@ -76,16 +76,25 @@ namespace petblog.Controllers
         }
 
         // Blog silme işlemi
-        public async Task<IActionResult> Delete(int id)
+        [HttpPost]
+        public IActionResult Delete(int id)
         {
-            var blog = await _context.Bloglar.FindAsync(id);
-            if (blog == null)
+            // Veritabanından blog yazısını bul
+            var blog = _context.Bloglar.Find(id);
+            
+            if (blog != null)
             {
-                return NotFound();
+                // Blog yazısını sil
+                _context.Bloglar.Remove(blog);
+                _context.SaveChanges(); // Değişiklikleri kaydet
+                TempData["SuccessMessage"] = "Blog yazısı başarıyla silindi."; // Başarılı mesajı
             }
-            _context.Bloglar.Remove(blog);
-            await _context.SaveChangesAsync();
-            return RedirectToAction("Index");
+            else
+            {
+                TempData["ErrorMessage"] = "Blog yazısı bulunamadı."; // Hata mesajı
+            }
+            
+            return RedirectToAction("Panel"); // Yönetici paneline yönlendir
         }
     }
 } 

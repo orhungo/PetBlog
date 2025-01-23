@@ -1602,6 +1602,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PetBlog.acd2e7rigk.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PetBlog</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PetBlog</BasePath>
+      <RelativePath>uploads/blog-images/084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iurjt874cc</Fingerprint>
+      <Integrity>uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\13577c22-15ca-4f20-8fb5-4476866bb1b7.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>PetBlog</SourceId>
@@ -1619,6 +1637,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\13577c22-15ca-4f20-8fb5-4476866bb1b7.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PetBlog</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PetBlog</BasePath>
+      <RelativePath>uploads/blog-images/24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>f8ec8d0qzr</Fingerprint>
+      <Integrity>8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg'))">
       <SourceType>Package</SourceType>
@@ -1638,6 +1674,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\2f838be6-640c-453e-bd08-bec8b3a4af29.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PetBlog</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PetBlog</BasePath>
+      <RelativePath>uploads/blog-images/2f838be6-640c-453e-bd08-bec8b3a4af29.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>n6vpfof38n</Fingerprint>
+      <Integrity>4RZ9HXGmPGOllvzjBph8MVLH8LmLea9kPUFRQlGriQg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\2f838be6-640c-453e-bd08-bec8b3a4af29.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>PetBlog</SourceId>
@@ -1655,6 +1709,60 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PetBlog</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PetBlog</BasePath>
+      <RelativePath>uploads/blog-images/6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>f8ec8d0qzr</Fingerprint>
+      <Integrity>8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PetBlog</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PetBlog</BasePath>
+      <RelativePath>uploads/blog-images/80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iurjt874cc</Fingerprint>
+      <Integrity>uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\8979dca7-5f47-456c-9657-9a4c3add379e.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PetBlog</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PetBlog</BasePath>
+      <RelativePath>uploads/blog-images/8979dca7-5f47-456c-9657-9a4c3add379e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>f8ec8d0qzr</Fingerprint>
+      <Integrity>8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\8979dca7-5f47-456c-9657-9a4c3add379e.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\be4fb571-209e-40af-84fd-3c1f76f89cf5.jpg'))">
       <SourceType>Package</SourceType>
@@ -1710,6 +1818,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\ca001432-678a-44a2-9fcd-72d332d03452.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PetBlog</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PetBlog</BasePath>
+      <RelativePath>uploads/blog-images/e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>f8ec8d0qzr</Fingerprint>
+      <Integrity>8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\eb39237d-5387-425a-a832-b76074e11156.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PetBlog</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PetBlog</BasePath>
+      <RelativePath>uploads/blog-images/eb39237d-5387-425a-a832-b76074e11156.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iurjt874cc</Fingerprint>
+      <Integrity>uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\eb39237d-5387-425a-a832-b76074e11156.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\f1314e80-b859-4ebd-b592-0f92392a832d.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>PetBlog</SourceId>
@@ -1727,6 +1871,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\f1314e80-b859-4ebd-b592-0f92392a832d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PetBlog</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PetBlog</BasePath>
+      <RelativePath>uploads/blog-images/f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>y0uttaplrb</Fingerprint>
+      <Integrity>vk0O+tcXCj6PJUOy0Md3XQqKHHP3ebzdHFV0hD7RcUQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\blog-images\f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

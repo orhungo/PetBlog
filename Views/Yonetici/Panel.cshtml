@@ -54,9 +54,12 @@
                                     <a asp-action="BlogDuzenle" asp-route-id="@blog.blogId" class="btn btn-sm btn-warning">
                                         <i class="bi bi-pencil"></i> Düzenle
                                     </a>
-                                    <a asp-action="Delete" asp-route-id="@blog.blogId" class="btn btn-sm btn-danger">
-                                        Sil
-                                    </a>
+                                    <form asp-action="Delete" method="post" style="display:inline;" onsubmit="return confirm('Bu blog yazısını silmek istediğinize emin misiniz?');">
+                                        <input type="hidden" name="id" value="@blog.blogId" />
+                                        <button type="submit" class="btn btn-sm btn-danger">
+                                            Sil
+                                        </button>
+                                    </form>
                                 </td>
                             </tr>
                         }
@@ -64,5 +67,16 @@
                 </table>
             </div>
         }
+
+        <!-- Anasayfaya Dön Butonu -->
+        <div class="mt-4">
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Anasayfaya Dön</a>
+        </div>
     </div>
-</div> 
+</div>
+
+<script>
+    function confirmDelete() {
+        return confirm("Bu blog yazısını silmek istediğinize emin misiniz?");
+    }
+</script> 

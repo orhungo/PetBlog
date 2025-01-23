@@ -26,7 +26,7 @@ public IActionResult Index(string email, string sifre)
        
         HttpContext.Session.SetInt32("userId", Kullanici.userID); 
         TempData["SuccessMessage"] = "Giriş başarılı!";
-        return RedirectToAction("KullaniciProfil", "Profil"); 
+        return RedirectToAction("Index", "Anasayfa");
     }
     else
     {

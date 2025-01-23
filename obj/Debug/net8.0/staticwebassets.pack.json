@@ -357,16 +357,40 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg"
+    },
+    {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\13577c22-15ca-4f20-8fb5-4476866bb1b7.jpg",
       "PackagePath": "staticwebassets\\uploads\\blog-images\\13577c22-15ca-4f20-8fb5-4476866bb1b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg"
     },
     {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg",
       "PackagePath": "staticwebassets\\uploads\\blog-images\\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg"
     },
     {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\2f838be6-640c-453e-bd08-bec8b3a4af29.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\2f838be6-640c-453e-bd08-bec8b3a4af29.jpg"
+    },
+    {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.jpg",
       "PackagePath": "staticwebassets\\uploads\\blog-images\\3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\8979dca7-5f47-456c-9657-9a4c3add379e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\8979dca7-5f47-456c-9657-9a4c3add379e.jpg"
     },
     {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\be4fb571-209e-40af-84fd-3c1f76f89cf5.jpg",
@@ -381,8 +405,20 @@
       "PackagePath": "staticwebassets\\uploads\\blog-images\\ca001432-678a-44a2-9fcd-72d332d03452.jpg"
     },
     {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\eb39237d-5387-425a-a832-b76074e11156.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\eb39237d-5387-425a-a832-b76074e11156.jpg"
+    },
+    {
       "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\f1314e80-b859-4ebd-b592-0f92392a832d.jpg",
       "PackagePath": "staticwebassets\\uploads\\blog-images\\f1314e80-b859-4ebd-b592-0f92392a832d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\blog-images\\f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PetBlog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

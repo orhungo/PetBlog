@@ -206,5 +206,26 @@ namespace petblog.Controllers
             TempData["Basari"] = "Blog durumu başarıyla güncellendi!";
             return RedirectToAction("Panel");
         }
+
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            // Veritabanından blog yazısını bul
+            var blog = _context.Bloglar.Find(id);
+            
+            if (blog != null)
+            {
+                // Blog yazısını sil
+                _context.Bloglar.Remove(blog);
+                _context.SaveChanges(); // Değişiklikleri kaydet
+                TempData["SuccessMessage"] = "Blog yazısı başarıyla silindi."; // Başarılı mesajı
+            }
+            else
+            {
+                TempData["ErrorMessage"] = "Blog yazısı bulunamadı."; // Hata mesajı
+            }
+            
+            return RedirectToAction("Panel"); // Yönetici paneline yönlendir
+        }
     }
 }

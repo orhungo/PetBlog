@@ -50,4 +50,14 @@
             </div>
         </form>
     </div>
-</div> 
+</div>
+
+<!-- TinyMCE Başlatma Scripti -->
+<script>
+    tinymce.init({
+        selector: 'textarea', 
+        plugins: 'lists link image preview', 
+        toolbar: 'undo redo | styleselect | bold italic | alignleft aligncenter alignright | bullist numlist outdent indent | link image | preview', // Araç çubuğunda hangi butonların görüneceğini belirtin
+        height: 300 
+    });
+</script> 

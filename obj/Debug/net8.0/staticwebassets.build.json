@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cfsyhGkUqJxnEl4i0Thmici2InWIJOh6oYzEc+NHJFI=",
+  "Hash": "+Enwk6RRi1fX3nFvIRYKJ5WwiLdDNju9gVoVRHBTbdU=",
   "Source": "PetBlog",
   "BasePath": "_content/PetBlog",
   "Mode": "Default",
@@ -1907,6 +1907,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "uploads/blog-images/084c24c5-f99a-4086-95e0-d061cdbf68cd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iurjt874cc",
+      "Integrity": "uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg"
+    },
+    {
       "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\13577c22-15ca-4f20-8fb5-4476866bb1b7.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
@@ -1926,6 +1947,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\13577c22-15ca-4f20-8fb5-4476866bb1b7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "uploads/blog-images/24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f8ec8d0qzr",
+      "Integrity": "8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg"
     },
     {
       "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg",
@@ -1949,6 +1991,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg"
     },
     {
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\2f838be6-640c-453e-bd08-bec8b3a4af29.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "uploads/blog-images/2f838be6-640c-453e-bd08-bec8b3a4af29#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n6vpfof38n",
+      "Integrity": "4RZ9HXGmPGOllvzjBph8MVLH8LmLea9kPUFRQlGriQg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\2f838be6-640c-453e-bd08-bec8b3a4af29.jpg"
+    },
+    {
       "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
@@ -1968,6 +2031,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "uploads/blog-images/6349c189-ae40-45aa-8c30-7401a83cf2c5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f8ec8d0qzr",
+      "Integrity": "8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "uploads/blog-images/80458569-b7a9-441f-852c-0ffaf2e5eeb8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iurjt874cc",
+      "Integrity": "uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\8979dca7-5f47-456c-9657-9a4c3add379e.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "uploads/blog-images/8979dca7-5f47-456c-9657-9a4c3add379e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f8ec8d0qzr",
+      "Integrity": "8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\8979dca7-5f47-456c-9657-9a4c3add379e.jpg"
     },
     {
       "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\be4fb571-209e-40af-84fd-3c1f76f89cf5.jpg",
@@ -2033,6 +2159,48 @@
       "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\ca001432-678a-44a2-9fcd-72d332d03452.jpg"
     },
     {
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "uploads/blog-images/e6197d30-bec1-40f7-8c76-dd3a38c51585#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f8ec8d0qzr",
+      "Integrity": "8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\eb39237d-5387-425a-a832-b76074e11156.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "uploads/blog-images/eb39237d-5387-425a-a832-b76074e11156#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iurjt874cc",
+      "Integrity": "uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\eb39237d-5387-425a-a832-b76074e11156.jpg"
+    },
+    {
       "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\f1314e80-b859-4ebd-b592-0f92392a832d.jpg",
       "SourceId": "PetBlog",
       "SourceType": "Discovered",
@@ -2052,6 +2220,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\f1314e80-b859-4ebd-b592-0f92392a832d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg",
+      "SourceId": "PetBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\",
+      "BasePath": "_content/PetBlog",
+      "RelativePath": "uploads/blog-images/f7d861fe-9c67-4440-9ee7-929b30fa557a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y0uttaplrb",
+      "Integrity": "vk0O+tcXCj6PJUOy0Md3XQqKHHP3ebzdHFV0hD7RcUQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\blog-images\\f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg"
     }
   ],
   "Endpoints": [
@@ -9294,7 +9483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 21:44:24 GMT"
+          "Value": "Thu, 23 Jan 2025 01:03:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9339,7 +9528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 21:44:24 GMT"
+          "Value": "Thu, 23 Jan 2025 01:03:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9384,7 +9573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 21:44:24 GMT"
+          "Value": "Thu, 23 Jan 2025 01:03:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9421,7 +9610,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 21:44:24 GMT"
+          "Value": "Thu, 23 Jan 2025 01:03:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9432,6 +9621,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-CirKTNz6u2EqDunOXcGzVt1wMvoutfJJZmtRBEIUGGw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/084c24c5-f99a-4086-95e0-d061cdbf68cd.iurjt874cc.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4197246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:46:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iurjt874cc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/blog-images/084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\084c24c5-f99a-4086-95e0-d061cdbf68cd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4197246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:46:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4="
         }
       ]
     },
@@ -9518,6 +9789,88 @@
       ]
     },
     {
+      "Route": "uploads/blog-images/24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.f8ec8d0qzr.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9639461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:45:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f8ec8d0qzr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/blog-images/24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\24bd46be-e1cc-4a9a-8938-c0cd2c4e7bd7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9639461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:45:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188="
+        }
+      ]
+    },
+    {
       "Route": "uploads/blog-images/2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg",
       "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\2c9c1f4d-5b5f-4bcd-9911-7a4e68c185cd.jpg",
       "Selectors": [],
@@ -9600,6 +9953,88 @@
       ]
     },
     {
+      "Route": "uploads/blog-images/2f838be6-640c-453e-bd08-bec8b3a4af29.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\2f838be6-640c-453e-bd08-bec8b3a4af29.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1950122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4RZ9HXGmPGOllvzjBph8MVLH8LmLea9kPUFRQlGriQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4RZ9HXGmPGOllvzjBph8MVLH8LmLea9kPUFRQlGriQg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/2f838be6-640c-453e-bd08-bec8b3a4af29.n6vpfof38n.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\2f838be6-640c-453e-bd08-bec8b3a4af29.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1950122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4RZ9HXGmPGOllvzjBph8MVLH8LmLea9kPUFRQlGriQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n6vpfof38n"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/blog-images/2f838be6-640c-453e-bd08-bec8b3a4af29.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4RZ9HXGmPGOllvzjBph8MVLH8LmLea9kPUFRQlGriQg="
+        }
+      ]
+    },
+    {
       "Route": "uploads/blog-images/3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.exadxtyh81.jpg",
       "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\3d59a1a2-0ec9-4d31-b79a-5a6315c7e410.jpg",
       "Selectors": [],
@@ -9678,6 +10113,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-btJV/LEMT92D5l+u2W+OCFZsMs7+9p9oyeCzu/+lni0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/6349c189-ae40-45aa-8c30-7401a83cf2c5.f8ec8d0qzr.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9639461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:05:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f8ec8d0qzr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/blog-images/6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\6349c189-ae40-45aa-8c30-7401a83cf2c5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9639461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:05:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/80458569-b7a9-441f-852c-0ffaf2e5eeb8.iurjt874cc.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4197246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:40:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iurjt874cc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/blog-images/80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\80458569-b7a9-441f-852c-0ffaf2e5eeb8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4197246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:40:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/8979dca7-5f47-456c-9657-9a4c3add379e.f8ec8d0qzr.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\8979dca7-5f47-456c-9657-9a4c3add379e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9639461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:47:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f8ec8d0qzr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/blog-images/8979dca7-5f47-456c-9657-9a4c3add379e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/8979dca7-5f47-456c-9657-9a4c3add379e.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\8979dca7-5f47-456c-9657-9a4c3add379e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9639461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:47:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188="
         }
       ]
     },
@@ -9928,6 +10609,170 @@
       ]
     },
     {
+      "Route": "uploads/blog-images/e6197d30-bec1-40f7-8c76-dd3a38c51585.f8ec8d0qzr.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9639461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:46:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f8ec8d0qzr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/blog-images/e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\e6197d30-bec1-40f7-8c76-dd3a38c51585.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9639461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:46:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8VD+o9iHukKp2a4YkRdmwc1x8HnAtxuGldNjegVX188="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/eb39237d-5387-425a-a832-b76074e11156.iurjt874cc.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\eb39237d-5387-425a-a832-b76074e11156.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4197246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:04:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iurjt874cc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/blog-images/eb39237d-5387-425a-a832-b76074e11156.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/eb39237d-5387-425a-a832-b76074e11156.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\eb39237d-5387-425a-a832-b76074e11156.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4197246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 00:04:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uuD4DQ/mnQQYVL+3nLdnoek/oCVudJY0hYanB2NwHR4="
+        }
+      ]
+    },
+    {
       "Route": "uploads/blog-images/f1314e80-b859-4ebd-b592-0f92392a832d.jpg",
       "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\f1314e80-b859-4ebd-b592-0f92392a832d.jpg",
       "Selectors": [],
@@ -10002,6 +10847,88 @@
         {
           "Name": "label",
           "Value": "uploads/blog-images/f1314e80-b859-4ebd-b592-0f92392a832d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vk0O+tcXCj6PJUOy0Md3XQqKHHP3ebzdHFV0hD7RcUQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1124271"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vk0O+tcXCj6PJUOy0Md3XQqKHHP3ebzdHFV0hD7RcUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:45:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vk0O+tcXCj6PJUOy0Md3XQqKHHP3ebzdHFV0hD7RcUQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/blog-images/f7d861fe-9c67-4440-9ee7-929b30fa557a.y0uttaplrb.jpg",
+      "AssetFile": "C:\\Users\\yldrm\\Desktop\\githubProje\\PetBlog\\wwwroot\\uploads\\blog-images\\f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1124271"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vk0O+tcXCj6PJUOy0Md3XQqKHHP3ebzdHFV0hD7RcUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 01:45:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0uttaplrb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/blog-images/f7d861fe-9c67-4440-9ee7-929b30fa557a.jpg"
         },
         {
           "Name": "integrity",
