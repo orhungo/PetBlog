@@ -76,7 +76,7 @@ Yöneticinin Panele giriş yapacağı ekrana /Yonetici/GirisYap yoluyla ulaşıl
 ---
 
 #### Panel Ekranı 
-Yönetici mecvut blog yazılarını görüntüler, düzenleme ve silme gibi seçeneklere ulaşabilir.
+Yönetici mevcut blog yazılarını görüntüler, düzenleme ve silme gibi seçeneklere ulaşabilir.
 
 ---
 
