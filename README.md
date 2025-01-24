@@ -14,8 +14,17 @@ https://youtu.be/Dbo0v2JSgKk
 
 ---
 
+#### Hoşgeldiniz!
+Uygulama başlatıldığında kullanıcıyı karşılama sayfası açılır. Burada kullanıcılar giriş yapmayı ya da anasayfaya gitmeyi tercih edebilir.
+
+---
+
+<img width="1310" alt="Ekran Resmi 2025-01-25 00 15 39" src="https://github.com/user-attachments/assets/a9f05c76-da5d-4f7f-90dd-7245c53e74ba" />
+
+---
+
 #### Giriş Sayfası
-Kullanıcıları öncelikle giriş yap ekranı karşılamaktadır. Kullanıcılar burada bilgilerini girerek profil sayfalarına ulaşmaktadır.
+Kullanıcılar burada önceden belirledikleri bilgilerini girerek giriş yapabilmektedir.
 
 ---
 
@@ -33,7 +42,7 @@ Henüz üyeliği bulunmayan kullanıcılar Üye Ol butonuna tıklayarak üyelik 
 ---
 
 #### Profil Sayfası
-Kullanıcı giriş yaptığında profil sayfasına erişir. Burada kullanıcının bilgileri bulunur. Kullanıcı hesabından çıkış yapmak isterse çıkış yap butonuyla hızlıca işlemi tamamlayabilir.
+Kullanıcı giriş yaptığında profil sayfasına erişebilir. Burada kullanıcının bilgileri bulunur. Kullanıcı hesabından çıkış yapmak isterse çıkış yap butonuyla hızlıca işlemi tamamlayabilir.
 
 ---
 
