@@ -14,7 +14,7 @@ namespace petblog.Controllers
             _context = context;
         }
 
-        // Blog yazılarını listeleme
+        // Blog yazılarını listelemes
         public IActionResult Index()
         {
             var bloglar = _context.Bloglar.ToList(); 
@@ -29,16 +29,16 @@ namespace petblog.Controllers
                 return NotFound();
             }
 
-            return View(blog); // Sadece mevcut blog verisini görüntüleme sayfasına gönderir
+            return View(blog); 
         }
 
-        // Blog ekleme sayfası
+        
         public IActionResult Create()
         {
             return View();
         }
 
-        // Blog ekleme işlemi
+        // Blog ekleme 
         [HttpPost]
         public async Task<IActionResult> Create(Blog blog)
         {
@@ -51,7 +51,7 @@ namespace petblog.Controllers
             return View(blog);
         }
 
-        // Blog düzenleme sayfası
+        
         public IActionResult Edit(int id)
         {
             var blog = _context.Bloglar.FirstOrDefault(b => b.blogId == id);
@@ -62,7 +62,7 @@ namespace petblog.Controllers
             return View(blog);
         }
 
-        // Blog düzenleme işlemi
+        // Blog düzenleme 
         [HttpPost]
         public async Task<IActionResult> Edit(Blog blog)
         {
@@ -75,26 +75,26 @@ namespace petblog.Controllers
             return View(blog);
         }
 
-        // Blog silme işlemi
+        // Blog silme 
         [HttpPost]
         public IActionResult Delete(int id)
         {
-            // Veritabanından blog yazısını bul
+           
             var blog = _context.Bloglar.Find(id);
             
             if (blog != null)
             {
-                // Blog yazısını sil
+                
                 _context.Bloglar.Remove(blog);
-                _context.SaveChanges(); // Değişiklikleri kaydet
-                TempData["SuccessMessage"] = "Blog yazısı başarıyla silindi."; // Başarılı mesajı
+                _context.SaveChanges(); 
+                TempData["SuccessMessage"] = "Blog yazısı başarıyla silindi."; 
             }
             else
             {
-                TempData["ErrorMessage"] = "Blog yazısı bulunamadı."; // Hata mesajı
+                TempData["ErrorMessage"] = "Blog yazısı bulunamadı."; 
             }
             
-            return RedirectToAction("Panel"); // Yönetici paneline yönlendir
+            return RedirectToAction("Panel"); 
         }
     }
 } 

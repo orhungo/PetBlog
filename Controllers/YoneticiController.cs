@@ -29,7 +29,7 @@ namespace petblog.Controllers
         [HttpPost]
         public IActionResult GirisYap(string kullaniciAdi, string sifre)
         {
-            // Debug için kontrol
+            
             var tumYoneticiler = _context.Yoneticiler.ToList();
             
             var yonetici = _context.Yoneticiler.FirstOrDefault(x => 
@@ -40,7 +40,7 @@ namespace petblog.Controllers
                 HttpContext.Session.SetInt32("YoneticiId", yonetici.yoneticiId);
                 return RedirectToAction("Panel");
             }
-            return View();  // Giriş başarısız olduğunda form sayfasına geri dön
+            return View();  
         }
 
         public IActionResult Panel(string arama)
@@ -50,7 +50,7 @@ namespace petblog.Controllers
 
             var bloglar = _context.Bloglar.AsQueryable();
 
-            // Arama işlemi
+            
             if (!string.IsNullOrEmpty(arama))
             {
                 bloglar = bloglar.Where(b => b.baslik.Contains(arama) || b.icerik.Contains(arama));
@@ -95,7 +95,7 @@ namespace petblog.Controllers
                             await gorsel.CopyToAsync(fileStream);
                         }
 
-                        blog.gorselUrl = "/uploads/blog-images/" + fileName; // Görsel URL'sini ayarlayın
+                        blog.gorselUrl = "/uploads/blog-images/" + fileName; 
                     }
 
                     _context.Bloglar.Add(blog);
@@ -135,11 +135,11 @@ namespace petblog.Controllers
                         return NotFound();
                     }
 
-                    // Mevcut blog verilerini güncelle
+   
                     mevcutBlog.baslik = blog.baslik;
                     mevcutBlog.icerik = blog.icerik;
 
-                    // Görsel yükleme işlemi
+                    // Görsel yükleme 
                     if (gorsel != null)
                     {
                         var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/uploads/blog-images");
@@ -153,7 +153,7 @@ namespace petblog.Controllers
                             await gorsel.CopyToAsync(fileStream);
                         }
 
-                        mevcutBlog.gorselUrl = "/uploads/blog-images/" + fileName; // Görsel URL'sini güncelle
+                        mevcutBlog.gorselUrl = "/uploads/blog-images/" + fileName; 
                     }
 
                     _context.SaveChanges();
@@ -174,9 +174,9 @@ namespace petblog.Controllers
             var blog = _context.Bloglar.FirstOrDefault(b => b.blogId == id);
             if (blog == null)
             {
-                return NotFound(); // Blog bulunamazsa 404 döner
+                return NotFound(); 
             }
-            return View(blog); // Blog verisini görüntüleme sayfasına gönderir
+            return View(blog); 
         }
 
         public IActionResult Blog(int id)
@@ -184,9 +184,9 @@ namespace petblog.Controllers
             var blog = _context.Bloglar.FirstOrDefault(b => b.blogId == id);
             if (blog == null)
             {
-                return NotFound(); // Blog bulunamazsa 404 döner
+                return NotFound(); 
             }
-            return View(blog); // Blog verisini görüntüleme sayfasına gönderir
+            return View(blog); 
         }
 
         [HttpPost]
@@ -198,8 +198,8 @@ namespace petblog.Controllers
                 return NotFound();
             }
 
-            // Durumu değiştir
-            blog.aktifMi = !blog.aktifMi; // Aktif ise pasif, pasif ise aktif yap
+            //aktif pasif yapma
+            blog.aktifMi = !blog.aktifMi; 
             _context.Bloglar.Update(blog);
             await _context.SaveChangesAsync();
 
@@ -210,22 +210,22 @@ namespace petblog.Controllers
         [HttpPost]
         public IActionResult Delete(int id)
         {
-            // Veritabanından blog yazısını bul
+            // silme işlemi
             var blog = _context.Bloglar.Find(id);
             
             if (blog != null)
             {
-                // Blog yazısını sil
+                
                 _context.Bloglar.Remove(blog);
-                _context.SaveChanges(); // Değişiklikleri kaydet
-                TempData["SuccessMessage"] = "Blog yazısı başarıyla silindi."; // Başarılı mesajı
+                _context.SaveChanges(); 
+                TempData["SuccessMessage"] = "Blog yazısı başarıyla silindi."; 
             }
             else
             {
-                TempData["ErrorMessage"] = "Blog yazısı bulunamadı."; // Hata mesajı
+                TempData["ErrorMessage"] = "Blog yazısı bulunamadı."; 
             }
             
-            return RedirectToAction("Panel"); // Yönetici paneline yönlendir
+            return RedirectToAction("Panel"); 
         }
     }
 }
