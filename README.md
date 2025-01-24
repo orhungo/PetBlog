@@ -66,6 +66,29 @@ Pet ekle butonu aracılığıyla evcil hayvan ekleme işlemi yapılabilmektedir.
 
 ---
 
+#### Anasayfa
+Kullanıcı giriş yaptığında Anasayfa ekranına ulaşır.
+
+---
+
+<img width="1311" alt="Ekran Resmi 2025-01-24 23 58 27" src="https://github.com/user-attachments/assets/2a332e30-88d8-421e-b757-b2e728311787" />
+
+---
+
+Burada bloglara göz atılabilir istenilen bloğun tamamı görüntülenmek için "Devamını oku" butonuna tıklanabilir.
+
+---
+<img width="1312" alt="Ekran Resmi 2025-01-24 23 58 39" src="https://github.com/user-attachments/assets/3a6bdd17-5906-436b-8abe-a3484e14861f" />
+
+---
+
+Bu ekranda blog yazımızın tamamına ulaşılabilir.
+
+---
+
+<img width="1313" alt="Ekran Resmi 2025-01-25 00 07 25" src="https://github.com/user-attachments/assets/6fecfc21-f191-4229-9f83-63955e32a684" />
+
+---
 #### Yönetici Ekranı
 Yöneticinin Panele giriş yapacağı ekrana /Yonetici/GirisYap yoluyla ulaşılabilmektedir.
 
